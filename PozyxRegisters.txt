@@ -1,4 +1,4 @@
-0x43 - bus?
+0x4B - bus?
 
 0x50 - 32 bit x 1 - Barometer
 0x54 - 16 bit x 3 - Accelerometer x,y,z
